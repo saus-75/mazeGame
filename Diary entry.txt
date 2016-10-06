@@ -1,0 +1,62 @@
+Diary Entry
+#1
+20.04.2016
+First meetup during lab. Decided on a maze 
+generation design.
+
+23.04.2016
+Looked at the maze generation plan we decided on
+and started trying to write up a skeleton code
+for the Maze generation algo.
+
+#2
+24.04.2016
+Tried to learn how to use git and managed to 
+clone the repo of the our project repo. Though
+still haven't figured out how to make changes.
+
+25.04.2016
+Learnt to commit and push onto master with the README file.
+Figured out how to create a new branch. 
+And edited the README and commited to my own branch. 
+
+28.04.2016
+Set up a chat group to allow us to communicate better.
+And talk about the project.
+
+#3
+8.05.2016
+Started with the Main Menu GUI. Reading through Java Swing tutorial.
+Messed around with the tutorial codes.
+
+10.05.2016
+Had a team meetup. Talked about the maze generation algo, 
+GUI, extra feature for the future sprints.
+Wrote up a main menu. ran into the problem of
+buttons stacking on top of each other. Had to change design.
+Did more reasearch and wrote up a working main menu.
+Problem is that when ran with the program. it shows two separate 
+screen with the maze and the menu
+
+#4
+14.05.2016
+Revamp the menu design. Put buttons in specific location. Changed
+background image.
+
+16.05.2016
+Created a help panel for information about the game. Tried to make
+it switch between the screen but it doesm't work.
+
+17.05.2016
+Tried rewriting the whole menu again. Then i found the bug that was causing it.
+So I went back to my old code. and wrote up the rest of the help menu and setting menu
+
+#5
+19.05.2016
+Changed the background image, instead of pulling it from the internet, changed it to an pulling from the folder. Added toggle button for music but can't seems to have it playing on the menu
+
+21.05.2016
+Tried to get a smother player movement working. can't seem to get it to stop at the block.
+
+23.05.2016
+Added more panels and buttons for different functions. Implemented a leaderboard, just need to know what to read in. revamped JLabels to look nicer added a title
